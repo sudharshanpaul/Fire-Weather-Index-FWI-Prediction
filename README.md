@@ -75,9 +75,9 @@ Ensure you have the following installed:
 3.Click **Predict** to get the FWI prediction.
 ## Home Page
 
-![image alt](https://github.com/sudharshanpaul/Fire-Weather-Index-FWI-Prediction/blob/033cbe2ea18ddc50970bf942921afe404517e061/Screenshot%202024-12-28%20162548.png)
+![image alt](https://github.com/sudharshanpaul/Fire-Weather-Index-FWI-Prediction/blob/bf56afc2ffc8246bf5c0c49c6ca7cbd2d28be036/images/Screenshot%202024-12-28%20162548.png)
 ## Prediction Page
-![image alt](https://github.com/sudharshanpaul/Fire-Weather-Index-FWI-Prediction/blob/c0eb194105a8793e8f64d523be49501bfcde1cc0/Screenshot%202024-12-28%20163613.png)
+![image alt](https://github.com/sudharshanpaul/Fire-Weather-Index-FWI-Prediction/blob/bf56afc2ffc8246bf5c0c49c6ca7cbd2d28be036/images/Screenshot%202024-12-28%20163613.png)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
